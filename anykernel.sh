@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=LuciferKernel by d4rk-lucif3r
+kernel.string=PhoenixKernel by phoenix
 do.devicecheck=1
 do.modules=0
 do.systemless=1
