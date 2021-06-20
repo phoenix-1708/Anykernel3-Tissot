@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=PhoenixKernel by phoenix
+kernel.string=PhoenixKernel by phoenix-1708
 do.devicecheck=1
 do.modules=0
 do.systemless=1
